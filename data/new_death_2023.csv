@@ -1,0 +1,254 @@
+name,code,pop
+Afghanistan,AFG,1.7670000000000001
+Africa,OWID_AFR,0.341
+Albania,ALB,2.816
+Algeria,DZA,0.0
+American Samoa,ASM,0.0
+Andorra,AND,12.525
+Angola,AGO,0.112
+Anguilla,AIA,0.0
+Antigua and Barbuda,ATG,0.0
+Argentina,ARG,7.648
+Armenia,ARM,14.387
+Aruba,ABW,93.932
+Asia,OWID_ASI,21.289
+Australia,AUS,141.112
+Austria,AUT,99.556
+Azerbaijan,AZE,26.376
+Bahamas,BHS,26.83
+Bahrain,BHR,0.0
+Bangladesh,BGD,0.10200000000000001
+Barbados,BRB,88.76400000000001
+Belarus,BLR,0.0
+Belgium,BEL,86.401
+Belize,BLZ,0.0
+Benin,BEN,0.0
+Bermuda,BMU,186.897
+Bhutan,BTN,0.0
+Bolivia,BOL,7.8580000000000005
+Bonaire Sint Eustatius and Saba,BES,73.932
+Bosnia and Herzegovina,BIH,35.87
+Botswana,BWA,4.18
+Brazil,BRA,44.888
+British Virgin Islands,VGB,0.0
+Brunei,BRN,28.950999999999997
+Bulgaria,BGR,45.092999999999996
+Burkina Faso,BFA,0.044
+Burundi,BDI,0.0
+Cambodia,KHM,0.0
+Cameroon,CMR,0.32399999999999995
+Canada,CAN,104.802
+Cape Verde,CPV,3.372
+Cayman Islands,CYM,0.0
+Central African Republic,CAF,0.0
+Chad,TCD,0.0
+Chile,CHL,98.793
+China,CHN,50.951
+Colombia,COL,11.856
+Comoros,COM,0.0
+Congo,COG,0.502
+Cook Islands,COK,58.713
+Costa Rica,CRI,57.707
+Cote d'Ivoire,CIV,0.144
+Croatia,HRV,170.208
+Cuba,CUB,0.0
+Curacao,CUW,15.693
+Cyprus,CYP,118.302
+Czechia,CZE,62.512
+Democratic Republic of Congo,COD,0.060000000000000005
+Denmark,DNK,163.54
+Djibouti,DJI,0.0
+Dominica,DMA,0.0
+Dominican Republic,DOM,0.0
+Ecuador,ECU,3.948
+Egypt,EGY,0.252
+El Salvador,SLV,0.0
+England,OWID_ENG,0.0
+Equatorial Guinea,GNQ,0.0
+Eritrea,ERI,0.0
+Estonia,EST,111.61
+Eswatini,SWZ,4.16
+Ethiopia,ETH,0.016
+Europe,OWID_EUR,78.94
+European Union,OWID_EUN,84.972
+Faeroe Islands,FRO,0.0
+Falkland Islands,FLK,0.0
+Fiji,FJI,4.303
+Finland,FIN,234.79399999999998
+France,FRA,85.674
+French Guiana,GUF,0.0
+French Polynesia,PYF,0.0
+Gabon,GAB,0.419
+Gambia,GMB,0.0
+Georgia,GEO,50.463
+Germany,DEU,97.092
+Ghana,GHA,0.03
+Gibraltar,GIB,91.80799999999999
+Greece,GRC,208.379
+Greenland,GRL,0.0
+Grenada,GRD,0.0
+Guadeloupe,GLP,42.956
+Guam,GUM,11.643
+Guatemala,GTM,11.593
+Guernsey,GGY,94.744
+Guinea,GIN,0.072
+Guinea-Bissau,GNB,0.475
+Guyana,GUY,14.843
+Haiti,HTI,0.0
+High income,OWID_HIC,101.385
+Honduras,HND,4.316
+Hong Kong,HKG,0.0
+Hungary,HUN,30.1
+Iceland,ISL,37.543
+India,IND,0.844
+Indonesia,IDN,4.479
+Iran,IRN,18.157
+Iraq,IRQ,0.022
+Ireland,IRL,105.294
+Isle of Man,IMN,0.0
+Israel,ISR,52.177
+Italy,ITA,100.178
+Jamaica,JAM,30.772
+Japan,JPN,140.715
+Jersey,JEY,135.38299999999998
+Jordan,JOR,0.0
+Kazakhstan,KAZ,0.728
+Kenya,KEN,0.019
+Kiribati,KIR,83.818
+Kosovo,OWID_KOS,9.537
+Kuwait,KWT,0.0
+Kyrgyzstan,KGZ,0.0
+Laos,LAO,0.0
+Latvia,LVA,116.173
+Lebanon,LBN,33.675
+Lesotho,LSO,0.0
+Liberia,LBR,0.189
+Libya,LBY,0.0
+Liechtenstein,LIE,0.0
+Lithuania,LTU,75.648
+Low income,OWID_LIC,0.252
+Lower middle income,OWID_LMC,2.205
+Luxembourg,LUX,64.849
+Macao,MAC,0.0
+Madagascar,MDG,0.23800000000000002
+Malawi,MWI,0.049
+Malaysia,MYS,7.8
+Maldives,MDV,9.545
+Mali,MLI,0.0
+Malta,MLT,46.875
+Marshall Islands,MHL,0.0
+Martinique,MTQ,48.978
+Mauritania,MRT,0.0
+Mauritius,MUS,9.237
+Mayotte,MYT,0.0
+Mexico,MEX,21.783
+Micronesia (country),FSM,61.30799999999999
+Moldova,MDA,58.358000000000004
+Monaco,MCO,54.808
+Mongolia,MNG,0.0
+Montenegro,MNE,57.415
+Montserrat,MSR,0.0
+Morocco,MAR,0.081
+Mozambique,MOZ,0.33299999999999996
+Myanmar,MMR,0.072
+Namibia,NAM,3.507
+Nauru,NRU,0.0
+Nepal,NPL,0.395
+Netherlands,NLD,0.114
+New Caledonia,NCL,0.0
+New Zealand,NZL,143.868
+Nicaragua,NIC,0.0
+Niger,NER,0.038
+Nigeria,NGA,0.0
+Niue,NIU,0.0
+North America,OWID_NAM,87.942
+North Korea,PRK,0.0
+North Macedonia,MKD,30.094
+Northern Ireland,OWID_NIR,0.0
+Northern Mariana Islands,MNP,0.0
+Norway,NOR,134.327
+Oceania,OWID_OCE,99.225
+Oman,OMN,0.0
+Pakistan,PAK,0.084
+Palau,PLW,0.0
+Palestine,PSE,0.0
+Panama,PAN,15.424
+Papua New Guinea,PNG,0.099
+Paraguay,PRY,40.260999999999996
+Peru,PER,76.8
+Philippines,PHL,10.197
+Pitcairn,PCN,0.0
+Poland,POL,27.37
+Portugal,PRT,104.665
+Puerto Rico,PRI,111.906
+Qatar,QAT,1.855
+Reunion,REU,14.374
+Romania,ROU,43.236
+Russia,RUS,39.554
+Rwanda,RWA,0.073
+Saint Barthelemy,BLM,0.0
+Saint Helena,SHN,0.0
+Saint Kitts and Nevis,KNA,0.0
+Saint Lucia,LCA,0.0
+Saint Martin (French part),MAF,0.0
+Saint Pierre and Miquelon,SPM,0.0
+Saint Vincent and the Grenadines,VCT,48.095
+Samoa,WSM,8.993
+San Marino,SMR,118.728
+Sao Tome and Principe,STP,13.193999999999999
+Saudi Arabia,SAU,3.572
+Scotland,OWID_SCT,0.0
+Senegal,SEN,0.173
+Serbia,SRB,78.904
+Seychelles,SYC,0.0
+Sierra Leone,SLE,0.0
+Singapore,SGP,1.9489999999999998
+Sint Maarten (Dutch part),SXM,67.886
+Slovakia,SVK,60.961999999999996
+Slovenia,SVN,264.162
+Solomon Islands,SLB,0.0
+Somalia,SOM,0.0
+South Africa,ZAF,0.451
+South America,OWID_SAM,36.042
+South Korea,KOR,53.029
+South Sudan,SSD,0.0
+Spain,ESP,64.631
+Sri Lanka,LKA,2.7560000000000002
+Sudan,SDN,1.088
+Suriname,SUR,21.034
+Sweden,SWE,205.222
+Switzerland,CHE,15.899000000000001
+Syria,SYR,0.0
+Taiwan,TWN,0.0
+Tajikistan,TJK,0.0
+Tanzania,TZA,0.015
+Thailand,THA,8.691
+Timor,TLS,0.0
+Togo,TGO,0.0
+Tokelau,TKL,0.0
+Tonga,TON,0.0
+Trinidad and Tobago,TTO,69.886
+Tunisia,TUN,11.251000000000001
+Turkey,TUR,0.0
+Turkmenistan,TKM,0.0
+Turks and Caicos Islands,TCA,43.739
+Tuvalu,TUV,0.0
+Uganda,UGA,0.042
+Ukraine,UKR,40.804
+United Arab Emirates,ARE,0.106
+United Kingdom,GBR,167.516
+United States,USA,132.121
+United States Virgin Islands,VIR,40.208
+Upper middle income,OWID_UMC,38.855
+Uruguay,URY,21.035
+Uzbekistan,UZB,0.0
+Vanuatu,VUT,0.0
+Vatican,VAT,0.0
+Venezuela,VEN,0.882
+Vietnam,VNM,0.203
+Wales,OWID_WLS,0.0
+Wallis and Futuna,WLF,86.237
+World,OWID_WRL,29.184
+Yemen,YEM,0.0
+Zambia,ZMB,1.8499999999999999
+Zimbabwe,ZWE,4.407

@@ -1,0 +1,132 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 16 ene 2024, 20:53:52
+    Author     : Sandra
+*/
+
+
+body{
+    background-color: #D6E3E8;
+    /*font-family: 'Roboto', sans-serif;*/
+    font-family: 'Roboto', sans-serif;
+    color: #023549;
+}
+
+.font-Playfair{
+    font-family: 'Playfair Display', serif;
+}
+
+.color-blue{
+    
+    color: #2c75cd;
+}
+
+.color-green{
+    color: #30a7a3;
+}
+
+.img-covid{
+    
+    height: 400px;
+}
+
+.div-title{
+    
+    font-size: 45px;
+
+}
+
+.div-Spain{
+    
+    font-size: 30px;
+}
+
+.year-Spain{
+    
+    font-size: 28px;
+    color: #2c75cd;
+}
+
+.description{
+
+    font-size: 20px;
+    
+}
+
+.icono-jeringa{
+    color: #2c75cd;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.icono-tests{
+    color: #30a7a3;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.text-25{
+    font-size: 25px;
+}
+
+.text-45{
+    font-size: 45px;
+}
+
+.texto-pobreza{
+    
+    padding: 40px;
+    border-top: 3px solid white;
+    border-bottom: 3px solid white;
+}
+
+#chart-vacunas{
+    height: 200px;
+}
+
+#chartPobreza{
+    height: 100px;
+}
+
+.map {
+  padding: 20px;
+  background-color: #FFFFFF;
+  border: 1px solid #4D8DC4;
+  box-shadow: 1px 1px 15px #000000;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+div.tooltip {   
+  position: absolute;
+  padding: 7px;
+  font-size: 0.8em;
+  pointer-events: none;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-shadow: 3px 3px 10px 0px rgba(0, 0, 0, 0.25);
+}  
+
+.background {
+  fill: transparent;
+  pointer-evens: all;
+}
+
+.world {
+  transform-origin: center;
+}
+
+.displayNone{
+    
+    display: none;
+}
+
+.border-none{
+    border: none !important;
+}

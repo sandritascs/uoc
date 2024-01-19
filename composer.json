@@ -1,0 +1,22 @@
+{
+    "name": "uoc/practica2",
+    "description": "Práctica 2 - Visualización de datos",
+    "authors": [
+        {
+            "name": "Sandra Campos",
+            "email": "scampossu@uoc.edu",
+            "role": "Developer"
+        }
+    ],
+    "require": {        
+        "twbs/bootstrap": "5.2.*",
+        "fortawesome/font-awesome": "6.*",
+        "smarty/smarty": "4.3.*",
+        "components/jquery": "3.*",
+        "components/jqueryui": "1.*"
+    },
+    "config": {
+        "vendor-dir": "vendor"
+    }
+
+}

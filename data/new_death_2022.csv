@@ -1,0 +1,256 @@
+name,code,pop
+Afghanistan,AFG,11.981
+Africa,OWID_AFR,20.776
+Albania,ALB,135.111
+Algeria,DZA,13.584999999999999
+American Samoa,ASM,767.584
+Andorra,AND,225.449
+Angola,AGO,4.855
+Anguilla,AIA,440.88800000000003
+Antigua and Barbuda,ATG,287.93
+Argentina,ARG,262.538
+Armenia,ARM,265.429
+Aruba,ABW,929.935
+Asia,OWID_ASI,58.025
+Australia,AUS,587.25
+Austria,AUT,552.147
+Azerbaijan,AZE,160.477
+Bahamas,BHS,282.93100000000004
+Bahrain,BHR,96.428
+Bangladesh,BGD,8.016
+Barbados,BRB,1093.601
+Belarus,BLR,163.29999999999998
+Belgium,BEL,429.053
+Belize,BLZ,224.529
+Benin,BEN,0.15
+Bermuda,BMU,732.0169999999999
+Bhutan,BTN,23.004
+Bolivia,BOL,216.056
+Bonaire Sint Eustatius and Saba,BES,628.422
+Bosnia and Herzegovina,BIH,867.795
+Botswana,BWA,126.977
+Brazil,BRA,347.947
+British Virgin Islands,VGB,797.9069999999999
+Brunei,BRN,193.76
+Bulgaria,BGR,1063.998
+Burkina Faso,BFA,3.395
+Burundi,BDI,0.078
+Cambodia,KHM,2.63
+Cameroon,CMR,4.012
+Canada,CAN,497.873
+Cape Verde,CPV,102.846
+Cayman Islands,CYM,378.331
+Central African Republic,CAF,2.149
+Chad,TCD,0.731
+Chile,CHL,1226.9119999999998
+China,CHN,30.183
+Colombia,COL,237.364
+Comoros,COM,4.78
+Congo,COG,2.843
+Cook Islands,COK,58.713
+Costa Rica,CRI,334.095
+Cote d'Ivoire,CIV,4.244
+Croatia,HRV,1262.913
+Cuba,CUB,18.544999999999998
+Curacao,CUW,585.864
+Cyprus,CYP,683.014
+Czechia,CZE,554.509
+Democratic Republic of Congo,COD,2.388
+Denmark,DNK,769.42
+Djibouti,DJI,0.0
+Dominica,DMA,371.09000000000003
+Dominican Republic,DOM,12.282
+Ecuador,ECU,126.625
+Egypt,EGY,27.697
+El Salvador,SLV,64.243
+England,OWID_ENG,0.0
+Equatorial Guinea,GNQ,4.776
+Eritrea,ERI,7.5920000000000005
+Estonia,EST,694.525
+Eswatini,SWZ,102.35
+Ethiopia,ETH,5.226
+Europe,OWID_EUR,593.911
+European Union,OWID_EUN,631.077
+Faeroe Islands,FRO,263.567
+Falkland Islands,FLK,0.0
+Fiji,FJI,196.832
+Finland,FIN,1241.715
+France,FRA,578.023
+French Guiana,GUF,242.96099999999998
+French Polynesia,PYF,42.445
+Gabon,GAB,7.537
+Gambia,GMB,10.719
+Georgia,GEO,828.696
+Germany,DEU,577.126
+Ghana,GHA,4.631
+Gibraltar,GIB,306.028
+Greece,GRC,1368.995
+Greenland,GRL,354.02
+Grenada,GRD,302.892
+Guadeloupe,GLP,427.031
+Guam,GUM,820.798
+Guatemala,GTM,218.302
+Guernsey,GGY,584.258
+Guinea,GIN,5.476999999999999
+Guinea-Bissau,GNB,12.825
+Guyana,GUY,290.609
+Haiti,HTI,7.513
+High income,OWID_HIC,581.66
+Honduras,HND,61.069
+Hong Kong,HKG,0.0
+Hungary,HUN,933.953
+Iceland,ISL,563.157
+India,IND,35.009
+Indonesia,IDN,59.955
+Iran,IRN,148.043
+Iraq,IRQ,27.391000000000002
+Ireland,IRL,479.157
+Isle of Man,IMN,579.653
+Israel,ISR,402.68
+Italy,ITA,805.332
+Jamaica,JAM,351.555
+Japan,JPN,313.621
+Jersey,JEY,514.467
+Jordan,JOR,133.085
+Kazakhstan,KAZ,42.86
+Kenya,KEN,5.793
+Kiribati,KIR,99.059
+Kosovo,OWID_KOS,118.94800000000001
+Kuwait,KWT,23.89
+Kyrgyzstan,KGZ,28.509
+Laos,LAO,39.715
+Latvia,LVA,861.842
+Lebanon,LBN,299.60699999999997
+Lesotho,LSO,15.183
+Liberia,LBR,1.321
+Libya,LBY,108.777
+Liechtenstein,LIE,457.379
+Lithuania,LTU,758.188
+Low income,OWID_LIC,7.641
+Lower middle income,OWID_LMC,41.616
+Luxembourg,LUX,424.604
+Macao,MAC,0.0
+Madagascar,MDG,13.209
+Malawi,MWI,16.17
+Malaysia,MYS,158.10399999999998
+Maldives,MDV,93.54299999999999
+Mali,MLI,3.759
+Malta,MLT,633.77
+Marshall Islands,MHL,408.727
+Martinique,MTQ,819.0210000000001
+Mauritania,MRT,28.285
+Mauritius,MUS,195.477
+Mayotte,MYT,6.132
+Mexico,MEX,217.08100000000002
+Micronesia (country),FSM,507.979
+Moldova,MDA,508.404
+Monaco,MCO,739.908
+Mongolia,MNG,44.143
+Montenegro,MNE,621.936
+Montserrat,MSR,1586.221
+Morocco,MAR,38.714
+Mozambique,MOZ,7.1499999999999995
+Myanmar,MMR,4.07
+Namibia,NAM,170.256
+Nauru,NRU,78.796
+Nepal,NPL,13.91
+Netherlands,NLD,119.871
+New Caledonia,NCL,113.812
+New Zealand,NZL,439.71500000000003
+Nicaragua,NIC,4.032
+Niger,NER,1.522
+Nigeria,NGA,0.577
+Niue,NIU,0.0
+North America,OWID_NAM,545.241
+North Korea,PRK,0.0
+North Macedonia,MKD,788.123
+Northern Cyprus,OWID_CYN,0.0
+Northern Ireland,OWID_NIR,0.0
+Northern Mariana Islands,MNP,564.816
+Norway,NOR,633.379
+Oceania,OWID_OCE,410.112
+Oman,OMN,31.698
+Pakistan,PAK,7.24
+Palau,PLW,497.678
+Palestine,PSE,147.993
+Panama,PAN,259.027
+Papua New Guinea,PNG,7.794
+Paraguay,PRY,451.859
+Peru,PER,457.974
+Philippines,PHL,119.466
+Pitcairn,PCN,0.0
+Poland,POL,538.81
+Portugal,PRT,669.185
+Puerto Rico,PRI,693.306
+Qatar,QAT,25.228
+Reunion,REU,511.259
+Romania,ROU,440.504
+Russia,RUS,586.347
+Rwanda,RWA,8.568999999999999
+Saint Barthelemy,BLM,90.959
+Saint Helena,SHN,0.0
+Saint Kitts and Nevis,KNA,377.511
+Saint Lucia,LCA,633.795
+Saint Martin (French part),MAF,220.017
+Saint Pierre and Miquelon,SPM,339.848
+Saint Vincent and the Grenadines,VCT,346.28499999999997
+Samoa,WSM,130.405
+San Marino,SMR,653.007
+Sao Tome and Principe,STP,87.958
+Saudi Arabia,SAU,17.492
+Scotland,OWID_SCT,0.0
+Senegal,SEN,4.503
+Serbia,SRB,702.484
+Seychelles,SYC,429.364
+Sierra Leone,SLE,0.34800000000000003
+Singapore,SGP,156.621
+Sint Maarten (Dutch part),SXM,316.80400000000003
+Slovakia,SVK,742.096
+Slovenia,SVN,1280.28
+Solomon Islands,SLB,211.245
+Somalia,SOM,1.591
+South Africa,ZAF,192.12
+South America,OWID_SAM,341.61899999999997
+South Korea,KOR,513.245
+South Sudan,SSD,0.184
+Spain,ESP,564.782
+Sri Lanka,LKA,84.201
+Sudan,SDN,35.361
+Suriname,SUR,330.072
+Sweden,SWE,659.8629999999999
+Switzerland,CHE,224.344
+Syria,SYR,12.218
+Taiwan,TWN,0.0
+Tajikistan,TJK,0.0
+Tanzania,TZA,1.65
+Thailand,THA,166.951
+Timor,TLS,11.936
+Togo,TGO,4.746
+Tokelau,TKL,0.0
+Tonga,TON,112.289
+Trinidad and Tobago,TTO,952.278
+Tunisia,TUN,301.07
+Turkey,TUR,226.327
+Turkmenistan,TKM,0.0
+Turks and Caicos Islands,TCA,218.692
+Tuvalu,TUV,0.0
+Uganda,UGA,7.037
+Ukraine,UKR,375.654
+United Arab Emirates,ARE,19.716
+United Kingdom,GBR,579.927
+United States,USA,785.833
+United States Virgin Islands,VIR,381.981
+Upper middle income,OWID_UMC,144.072
+Uruguay,URY,407.257
+Uzbekistan,UZB,4.408
+Vanuatu,VUT,42.844
+Vatican,VAT,0.0
+Venezuela,VEN,18.002
+Vietnam,VNM,109.898
+Wales,OWID_WLS,0.0
+Wallis and Futuna,WLF,0.0
+Western Sahara,ESH,0.0
+World,OWID_WRL,155.604
+Yemen,YEM,5.199
+Zambia,ZMB,14.649000000000001
+Zimbabwe,ZWE,39.214999999999996
