@@ -2,8 +2,6 @@
 
 ini_set('display_errors', 0);
 
-require_once 'config/includes.php';
-
 date_default_timezone_set('Europe/Madrid');
 
 $row = 1;

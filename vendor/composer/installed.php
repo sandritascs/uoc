@@ -3,7 +3,7 @@
         'name' => 'uoc/practica2',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '46ef06b89d89b334fd358d9fd2e894cb339915ad',
+        'reference' => 'a6d3ff566b7774342dfb23bfef7785d0b4d3a693',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -37,15 +37,6 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
-        'smarty/smarty' => array(
-            'pretty_version' => 'v4.3.4',
-            'version' => '4.3.4.0',
-            'reference' => '3931d8f54b8f7a4ffab538582d34d4397ba8daa5',
-            'type' => 'library',
-            'install_path' => __DIR__ . '/../smarty/smarty',
-            'aliases' => array(),
-            'dev_requirement' => false,
-        ),
         'twbs/bootstrap' => array(
             'pretty_version' => 'v5.2.3',
             'version' => '5.2.3.0',
@@ -64,7 +55,7 @@
         'uoc/practica2' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '46ef06b89d89b334fd358d9fd2e894cb339915ad',
+            'reference' => 'a6d3ff566b7774342dfb23bfef7785d0b4d3a693',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
